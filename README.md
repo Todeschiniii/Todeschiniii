@@ -1,4 +1,9 @@
-## Hi there 👋
+# Sobre mim 👋👩‍💻
+
+Oi! Meu nome é Mateus, tenho 16 anos e estou no último ano do ensino médio concomitante com Técnico em Informática.
+<br><br>
+Atualmente tenho experiências em projetos com programação de <b>Desenvolvimento WEB Full-Stack</b>, 
+
 
 <!--
 **Todeschiniii/Todeschiniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
