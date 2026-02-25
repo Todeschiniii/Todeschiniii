@@ -50,19 +50,16 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
 🔬 <b>Sistema de reconhecimento de LIBRAS</b>  
 Sistema de reconhecimento de gestos utilizando <b>Python, OpenCV e MediaPipe</b>.
 <!-- Colocar mais coisa do Linkedin -->
+
 <br><br><br>
 
-<p>
-🚀 Sempre aberto a conexões, colaborações e oportunidades que envolvam inovação e aprendizado contínuo.
-</p>
-
-<br>
 <h1 align="center">Mateus | Full-Stack & AI Enthusiast</h1>
 
 <p align="center">
   🎓 Técnico em Informática <br>
   💻 Desenvolvedor Full-Stack <br>
   🤖 Focado em Inteligência Artificial e Automação
+  🚀 Sempre aberto a conexões, colaborações e oportunidades que envolvam inovação e aprendizado contínuo.
 </p>
 
 <!--
