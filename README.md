@@ -58,7 +58,7 @@ Sistema de reconhecimento de gestos utilizando <b>Python, OpenCV e MediaPipe</b>
 <p align="center">
   🎓 Técnico em Informática <br>
   💻 Desenvolvedor Full-Stack <br>
-  🤖 Focado em Inteligência Artificial e Automação
+  🤖 Focado em Inteligência Artificial e Automação <br>
   🚀 Sempre aberto a conexões, colaborações e oportunidades que envolvam inovação e aprendizado contínuo.
 </p>
 
