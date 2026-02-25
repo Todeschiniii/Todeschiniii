@@ -29,9 +29,27 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
 🚀 Sempre aberto a conexões, colaborações e oportunidades que envolvam inovação e aprendizado contínuo.
 </p>
 
+## 🚀 Stack Principal
 
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp"/>
+</p>
 
-<br><br>
+## 🛠️ Proficiência em:
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet"/>
+</p>
+
+<br><br><br><br>
 <h1 align="center">Mateus | Full-Stack & AI Enthusiast</h1>
 
 <p align="center">
