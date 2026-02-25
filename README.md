@@ -29,6 +29,14 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
 🚀 Sempre aberto a conexões, colaborações e oportunidades que envolvam inovação e aprendizado contínuo.
 </p>
 
+<h1 align="center">Mateus | Full-Stack & AI Enthusiast</h1>
+
+<p align="center">
+  🎓 Técnico em Informática <br>
+  💻 Desenvolvedor Full-Stack <br>
+  🤖 Focado em Inteligência Artificial e Automação
+</p>
+
 <!--
 **Todeschiniii/Todeschiniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
