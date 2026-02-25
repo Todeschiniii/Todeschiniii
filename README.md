@@ -54,7 +54,8 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
 ## 📌 Projeto em Destaque
 
 🔬 <b>Sistema de reconhecimento de LIBRAS</b>  
-Sistema de reconhecimento de gestos utilizando <b>Python, OpenCV e MediaPipe</b>.
+Sistema de reconhecimento de gestos utilizando <b>Python, OpenCV e MediaPipe</b>.<br>
+Facilita a comunicação de pessoas sem o conhecimento sobre a língua com pessoas 
 <!-- Colocar mais coisa do Linkedin -->
 
 <br><br><br>
