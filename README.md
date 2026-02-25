@@ -29,6 +29,7 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
 🚀 Sempre aberto a conexões, colaborações e oportunidades que envolvam inovação e aprendizado contínuo.
 </p>
 
+<br><br>
 ## 🛠️ Proficiência em:
 
 <p>
@@ -43,6 +44,13 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
   <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet"/>
 </p>
+<br><br>
+
+## 📌 Projeto em Destaque
+
+🔬 <b>Sistema de reconhecimento de LIBRAS</b>  
+Sistema de reconhecimento de gestos utilizando <b>Python, OpenCV e MediaPipe</b>.
+<!-- Colocar mais coisa do Linkedin -->
 
 <br><br><br><br>
 <h1 align="center">Mateus | Full-Stack & AI Enthusiast</h1>
