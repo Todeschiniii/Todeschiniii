@@ -25,9 +25,7 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
 <b>Inteligência Artificial e Eletrônica voltadas à Biotecnologia</b>, desenvolvendo soluções tecnológicas que impactem positivamente a sociedade.
 </p>
 
-<p>
-🚀 Sempre aberto a conexões, colaborações e oportunidades que envolvam inovação e aprendizado contínuo.
-</p>
+
 
 <br><br>
 ## 🛠️ Proficiência em:
@@ -51,6 +49,11 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
 🔬 <b>Sistema de reconhecimento de LIBRAS</b>  
 Sistema de reconhecimento de gestos utilizando <b>Python, OpenCV e MediaPipe</b>.
 <!-- Colocar mais coisa do Linkedin -->
+<br>
+
+<p>
+🚀 Sempre aberto a conexões, colaborações e oportunidades que envolvam inovação e aprendizado contínuo.
+</p>
 
 <br><br><br><br>
 <h1 align="center">Mateus | Full-Stack & AI Enthusiast</h1>
