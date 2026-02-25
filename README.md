@@ -38,7 +38,7 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
   <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp"/>
   <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css"/>
   <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap"/>
   <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet"/>
