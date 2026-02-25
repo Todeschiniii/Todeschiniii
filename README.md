@@ -29,25 +29,25 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
 
 <br>
 
-## 🛠️ Proficiência em
+<h2 align="center">🛠️ Proficiência em</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp"/>
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 <br>
 
