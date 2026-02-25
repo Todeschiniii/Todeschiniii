@@ -29,7 +29,7 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
 
 <br>
 
-## 🛠️ Proficiência em:
+## 🛠️ Proficiência em
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
