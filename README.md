@@ -1,4 +1,4 @@
-# 👋 Sobre mim 👩‍💻
+# <p align="center">👋 Sobre mim 👩‍💻</p>
 
 <p>
 Olá! Meu nome é <b>Mateus</b>, tenho 16 anos e estou concluindo o Ensino Médio integrado ao <b>Técnico em Informática</b>. 
