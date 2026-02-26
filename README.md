@@ -54,8 +54,8 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
 # 📌 Projeto em Destaque
 
 🚗 <b>AEV - autoescola Virtual - TCC 2026</b>  
-Sistema que simula uma autoescola virtualmente ultilizando um cockpit físico e a Unity Engine (C#)
-🎓 Auxilia no processo de aprendizagem de pessoas em formação para a obtenção da Carteira Nacional de Habilitação (CNH).
+Sistema que simula uma autoescola virtualmente ultilizando um cockpit físico e a Unity Engine (C#)<br>
+🎓 Auxilia no processo de aprendizagem de pessoas em formação para a obtenção da Carteira Nacional de Habilitação (CNH).<br>
 🛠️ Em Progresso.
 
 👋 <b>Sistema de reconhecimento de LIBRAS - Feira Técnica 2025</b>  
