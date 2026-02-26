@@ -27,7 +27,7 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
 
 
 
-<br>
+<br><br>
 
 <h1 align = "center">🛠️ Proficiência em</h1>
 
@@ -49,7 +49,7 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
-<br>
+<br><br>
 
 # 📌 Projeto em Destaque
 
@@ -60,7 +60,7 @@ Sistema que simula uma autoescola virtualmente ultilizando um cockpit físico e 
 
 👋 <b>Sistema de reconhecimento de LIBRAS - Feira Técnica 2025</b>  
 Sistema de reconhecimento de gestos utilizando <b>Python, OpenCV e MediaPipe</b>.<br>
-Facilita a comunicação de pessoas sem o conhecimento sobre a língua com pessoas surdas.
+🎓 Facilita a comunicação de pessoas sem o conhecimento sobre a língua com pessoas surdas.
 
 
 <!-- Colocar mais coisa do Linkedin -->
