@@ -62,10 +62,12 @@ Sistema que simula uma autoescola virtualmente ultilizando um cockpit físico e 
 Sistema de reconhecimento de gestos utilizando <b>Python, OpenCV e MediaPipe</b>.<br>
 🎓 Facilita a comunicação de pessoas sem o conhecimento sobre a língua com pessoas surdas.
 
+<br><br><br>
+
 <p align="center">🌱 Construindo hoje a tecnologia que quero ver mudar o mundo amanhã.</p>
 <!-- Colocar mais coisa do Linkedin -->
 
-<br><br><br>
+
 
 <h1 align="center">Mateus | Full-Stack & AI Enthusiast</h1>
 
