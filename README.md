@@ -62,7 +62,7 @@ Sistema que simula uma autoescola virtualmente ultilizando um cockpit físico e 
 Sistema de reconhecimento de gestos utilizando <b>Python, OpenCV e MediaPipe</b>.<br>
 🎓 Facilita a comunicação de pessoas sem o conhecimento sobre a língua com pessoas surdas.
 
-
+<p align="center">🌱 Construindo hoje a tecnologia que quero ver mudar o mundo amanhã.</p>
 <!-- Colocar mais coisa do Linkedin -->
 
 <br><br><br>
@@ -75,18 +75,3 @@ Sistema de reconhecimento de gestos utilizando <b>Python, OpenCV e MediaPipe</b>
   🤖 Focado em Inteligência Artificial e Automação <br>
   🚀 Sempre aberto a conexões, colaborações e oportunidades que envolvam inovação e aprendizado contínuo.
 </p>
-
-<!--
-**Todeschiniii/Todeschiniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
