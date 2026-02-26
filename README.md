@@ -51,7 +51,7 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
 </p>
 <br>
 
-# 📌 Projeto em Destaque
+<h2>📌 Projeto em Destaque</h2> 
 
 🚗 <b>AEV - autoescola Virtual - TCC 2026</b>  
 Sistema que simula uma autoescola virtualmente ultilizando um cockpit físico e a Unity Engine (C#)
