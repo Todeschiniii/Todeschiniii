@@ -1,4 +1,4 @@
-# <p align="center">👋 Sobre mim 👩‍💻</p>
+# 👋 Sobre mim 👩‍💻
 
 <p>
 Olá! Meu nome é <b>Mateus</b>, tenho 16 anos e estou concluindo o Ensino Médio integrado ao <b>Técnico em Informática</b>. 
@@ -29,7 +29,7 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
 
 <br>
 
-<h2 align="center">🛠️ Proficiência em</h2>
+<h2>🛠️ Proficiência em</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
