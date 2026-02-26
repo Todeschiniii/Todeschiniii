@@ -53,9 +53,16 @@ Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, p
 
 ## 📌 Projeto em Destaque
 
-🔬 <b>Sistema de reconhecimento de LIBRAS</b>  
+🚗 <b>AEV - autoescola Virtual - TCC 2026</b>  
+Sistema que simula uma autoescola virtualmente ultilizando um cockpit físico e a Unity Engine (C#)
+🎓 Auxilia no processo de aprendizagem de pessoas em formação para a obtenção da Carteira Nacional de Habilitação (CNH).
+🛠️ Em Progresso.
+
+👋 <b>Sistema de reconhecimento de LIBRAS - Feira Técnica 2025</b>  
 Sistema de reconhecimento de gestos utilizando <b>Python, OpenCV e MediaPipe</b>.<br>
-Facilita a comunicação de pessoas sem o conhecimento sobre a língua com pessoas 
+Facilita a comunicação de pessoas sem o conhecimento sobre a língua com pessoas surdas.
+
+
 <!-- Colocar mais coisa do Linkedin -->
 
 <br><br><br>
