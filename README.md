@@ -64,7 +64,7 @@ Sistema de reconhecimento de gestos utilizando <b>Python, OpenCV e MediaPipe</b>
 
 <br><br><br>
 
-<p align="center">🌱 Construindo hoje a tecnologia que quero ver mudar o mundo amanhã.</p>
+<p align="center">🌱 Construindo hoje a tecnologia que quero ver mudar o mundo amanhã.🌱</p>
 <!-- Colocar mais coisa do Linkedin -->
 
 
