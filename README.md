@@ -1,7 +1,7 @@
 # 👋 Sobre mim 👩‍💻
 
 <p>
-Olá! Meu nome é <b>Mateus</b>, tenho 16 anos e estou concluindo o Ensino Médio integrado ao <b>Técnico em Informática</b>. 
+Olá! Meu nome é <b>Mateus</b>, tenho 17 anos e estou concluindo o Ensino Médio integrado ao <b>Técnico em Informática</b>. 
 Sou apaixonado por tecnologia e movido por desafios que envolvem inovação, lógica e impacto real.
 </p>
 
